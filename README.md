@@ -1,5 +1,4 @@
 ![](https://raw.githubusercontent.com/yellowbug7293/PhotoShopUI/main/psui.png)
-----
 # 特性
 - 灵活，可使用任何语言开发  
 - 无实际应用场景  
